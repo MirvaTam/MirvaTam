@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building my skills on web development
+- 🔭 I’m currently working on building my web development skills
 - 🌱 I’m currently learning python + flask
 - 😄 Pronouns: she/her/hers
 - I’m looking to collaborate on internship for next Jan-Feb
