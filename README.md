@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building my web development skills on 4 month intensive course
+- 🔭 I’m currently working on building my web development skills at a 4 month intensive course
 - 🌱 I’m currently learning python + flask
 - 😄 Pronouns: she/her/hers
 - I’m looking to collaborate on possible internship for next Jan-Feb
