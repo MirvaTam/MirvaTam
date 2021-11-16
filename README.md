@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python + flask
 -  ⚡ All repos in this page are my school projects
 - 😄 Pronouns: she/her/hers
-- I’m looking to collaborate on possible internship for next Jan-Feb
+- I’m looking to collaborate on possible internship for Jan-Feb 2022
 
 <!--
 **MirvaTam/MirvaTam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
